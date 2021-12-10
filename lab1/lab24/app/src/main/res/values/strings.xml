@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab24</string>
+    <string name="el_width">64dp</string>
+    <string name="el_height">64dp</string>
+    <string-array name="elements">
+        <item>_</item>
+        <item>X</item>
+        <item>O</item>
+    </string-array>
+</resources>
